@@ -40,7 +40,7 @@ code
 ## Roadmap
 
 - [X] First commit.
-
+- [ ] Finish notebooks examples.
 
 
 ## License
