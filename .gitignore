@@ -1,4 +1,5 @@
 /docs
 /old_examples
 /venv
-# /notebooks
+/examples
+/data
