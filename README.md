@@ -7,35 +7,29 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 
-
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Setup](#setup)
 - [Usage](#usage)
+
 
 
 ## About <a name = "about"></a>
 
-Description of the project.
+I noticed that there are not so many examples of semi-complex discrete event
+simulation models made with python and simpy so I decided to create this repo
+to share some of my own experiments.
 
+## Usage <a name = "about"></a>
 
-## Setup <a name = "setup"></a>
+Just opening any of the notebooks in google colab and try them. If you 
+found useful some implementation, let me know. 
 
-To get started, clone this repo and check that you have all requirements installed.
-
-```
-git clone https://github.com/vitostamatti/discrete-event-simulation-simpy.git
-``` 
-
-## Usage <a name = "usage"></a>
-
-Basic usage...
+Make sure you install simpy before running anything.
 
 ```
-code
+pip install simpy
 ```
-
 
 ## Roadmap
 
