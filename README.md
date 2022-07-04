@@ -36,8 +36,8 @@ and model.
 
 1. [Basic Examples](/notebooks/01-basic_examples.ipynb)
 2. [Transportation Examples](/notebooks/02-transportation.examples.ipynb)
-3. [Fuel Station Example](/notebooks/03-fuel_station_example.ipynb)
-4. [Entity Flow Examples](/notebooks/04-entity_flow_examples.ipynb)
+3. [Entity Flow Examples](/notebooks/03-entity_flow_examples.ipynb)
+4. [Fuel Station Example](/notebooks/04-fuel_station_example.ipynb)
 
 
 ## Roadmap
