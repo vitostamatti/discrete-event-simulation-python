@@ -16,13 +16,13 @@
 
 ## About <a name = "about"></a>
 
-I noticed that there are not so many examples of semi-complex discrete event
-simulation models made with python and simpy so I decided to create this repo
-to share some of my own experiments.
+I've noticed that there aren't that many examples of semi-complex 
+discrete event simulation models made with python and simpy, so I 
+decided to create this repository to share some of my own experiments.
 
 ## Usage <a name = "about"></a>
 
-Just opening any of the notebooks in google colab and try them. If you 
+Just by opening any of the notebooks in google colab and try them. If you 
 found useful some implementation, let me know. 
 
 Make sure you install simpy before running anything.
