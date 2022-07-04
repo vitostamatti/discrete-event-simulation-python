@@ -31,6 +31,15 @@ Make sure you install simpy before running anything.
 pip install simpy
 ```
 
+The examples are kind of ordered from less to most elaborate problem
+and model.
+
+1. [Basic Examples](/notebooks/01-basic_examples.ipynb)
+2. [Transportation Examples](/notebooks/02-transportation.examples.ipynb)
+3. [Fuel Station Example](/notebooks/03-fuel_station_example.ipynb)
+4. [Entity Flow Examples](/notebooks/04-entity_flow_examples.ipynb)
+
+
 ## Roadmap
 
 - [X] First commit.
