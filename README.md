@@ -16,9 +16,9 @@
 
 ## About <a name = "about"></a>
 
-I've noticed that there aren't that many examples of semi-complex 
-discrete event simulation models made with python and simpy, so I 
-decided to create this repository to share some of my own experiments.
+I realized that there aren't many examples of semi-complex discrete event 
+simulation models made with python and simpy, so I decided to create this 
+repository to share some of my own experiments.
 
 ## Usage <a name = "about"></a>
 
@@ -31,8 +31,7 @@ Make sure you install simpy before running anything.
 pip install simpy
 ```
 
-The examples are kind of ordered from less to most elaborate problem
-and model.
+The examples are kind of ordered from least to most elaborate.
 
 1. [Basic Examples](/notebooks/01-basic_examples.ipynb)
 2. [Transportation Examples](/notebooks/02-transportation.examples.ipynb)
