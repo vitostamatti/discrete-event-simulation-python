@@ -34,7 +34,7 @@ pip install simpy
 The examples are kind of ordered from least to most elaborate.
 
 1. [Basic Examples](/notebooks/01-basic_examples.ipynb)
-2. [Transportation Examples](/notebooks/02-transportation.examples.ipynb)
+2. [Transportation Examples](/notebooks/02-transportation_examples.ipynb)
 3. [Entity Flow Examples](/notebooks/03-entity_flow_examples.ipynb)
 4. [Fuel Station Example](/notebooks/04-fuel_station_example.ipynb)
 
