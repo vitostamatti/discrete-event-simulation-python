@@ -1,4 +1,4 @@
-# Discrete Event Simulation - simpy
+# Discrete Event Simulation with Python
 
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
