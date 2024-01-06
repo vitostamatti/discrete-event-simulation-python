@@ -1,4 +1,4 @@
 simpy
 pandas
-numpy
 matplotlib
+ipykernel
